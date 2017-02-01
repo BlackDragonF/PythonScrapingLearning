@@ -4,7 +4,7 @@
 
 My first learning experience of learning 'Web Scraping' using Python3.
 
-I'm taking 'Web Scraping with Python' as my inference book.
+I'm taking 'Web Scraping with Python' as my reference book.
 
 ## History
 
