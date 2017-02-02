@@ -10,4 +10,6 @@ I'm taking 'Web Scraping with Python' as my reference book.
 
 * 2017-02-01 finished chapter 1 which briefly introduces urlopen and BeautifulSoup.
 
+* 2017-02-02 finished chapter 2 and 3 which gives more detail about BeautifulSoup, introduces basic ideas of web scraping, and mentions Scrapy framework.
+
 
