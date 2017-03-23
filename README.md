@@ -17,3 +17,5 @@ I'm taking 'Web Scraping with Python' as my reference book.
 * 2017-03-19 finished chapter 5 which introduces the storage of data, basic usage of mysql.
 
 * 2017-03-20 finished chapter 6 which introduces the process of document.
+
+* 2017-03-23 finished chapter 7 which introduces the way to normalize data.
