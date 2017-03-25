@@ -19,3 +19,7 @@ I'm taking 'Web Scraping with Python' as my reference book.
 * 2017-03-20 finished chapter 6 which introduces the process of document.
 
 * 2017-03-23 finished chapter 7 which introduces the way to normalize data.
+
+* 2017-03-25 finished chapter 8 which introduces Natural Language Process using Markov Chain and Six Degrees Theory using Directed Graph.
+
+
