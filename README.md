@@ -22,4 +22,7 @@ I'm taking 'Web Scraping with Python' as my reference book.
 
 * 2017-03-25 finished chapter 8 which introduces Natural Language Process using Markov Chain and Six Degrees Theory using Directed Graph.
 
+* 2017-03-31 finished chapter 9 which introduces the basic usage of requests and how to deal with post request.
+
+
 
