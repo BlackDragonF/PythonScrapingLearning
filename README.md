@@ -24,5 +24,6 @@ I'm taking 'Web Scraping with Python' as my reference book.
 
 * 2017-03-31 finished chapter 9 which introduces the basic usage of requests and how to deal with post request.
 
+* 2017-04-01 finished chapter 10 which introduces selenium and phantomjs and how to use them to deal with javascript and client redirect.
 
 
